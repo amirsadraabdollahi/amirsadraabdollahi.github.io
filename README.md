@@ -15,7 +15,7 @@ I am a **Backend Developer** and **researcher** currently based in Montreal, QC,
 
 ## 💼 Experience
 
-**Senior Software Engineer (Backend)** at Cafe Bazaar (Jan 2022 - Dec 2025) 
+**Senior Software Engineer (Backend Developer)** at Cafe Bazaar (Jan 2022 - Dec 2025) 
 
 * Led end-to-end development of a high-throughput payment platform using gRPC and REST APIs in Python.
 
