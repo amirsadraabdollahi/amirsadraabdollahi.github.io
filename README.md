@@ -19,7 +19,6 @@ I am a Backend Developer and researcher currently based in Montreal, QC, Canada.
 
 ## 💼 Experience
 
-* 
 **Senior Software Engineer (Backend)** at Cafe Bazaar (Jan 2022 - Dec 2025) 
 
 
@@ -39,8 +38,7 @@ I am a Backend Developer and researcher currently based in Montreal, QC, Canada.
 
 
 ## 🔬 Research
-
-* 
+ 
 **WebAssembly Analysis and Testing Lab (University of Southern California)** - Remote Research Assistant (Sep 2024 - Aug 2025) 
 
 
@@ -50,9 +48,7 @@ I am a Backend Developer and researcher currently based in Montreal, QC, Canada.
 * Evaluated LLMs' code reasoning abilities through a fine-grained execution trace annotation system and perturbation suite.
 
 
-
-
-* 
+ 
 **Intelligent Software Engineering (ISE) Lab (Sharif University of Technology)** - Research Assistant (Sep 2023 - May 2024) 
 
 
@@ -78,14 +74,11 @@ I am a Backend Developer and researcher currently based in Montreal, QC, Canada.
 
 
 ## 🎓 Education
-
-* 
+ 
 **McGill University** - M.Sc. in Electrical and Computer Engineering (Jan 2026 - Expected Jan 2028) 
 
-
-* 
+ 
 **Sharif University of Technology** - B.Sc. in Computer Engineering (Sep 2019 - May 2024) 
-
 
 * GPA: 3.91/4.00 
 
